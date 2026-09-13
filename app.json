@@ -1,5 +1,10 @@
 {
   "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "b0ae9b78-216f-4574-a63b-d9200d16bf39"
+      }
+    },
     "name": "Victor_Note",
     "slug": "victor-note",
     "version": "1.0.0",
